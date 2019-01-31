@@ -1,0 +1,2 @@
+# trymodules
+exploring go modules
